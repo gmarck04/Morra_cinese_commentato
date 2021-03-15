@@ -1,0 +1,11 @@
+C:\Users\gmarc\OneDrive\Documenti\GitHub\Morra_cinese_commentato\Morra_Cinese_Commentato\Morra_Cinese_Commentato\bin\Debug\netcoreapp2.1\Morra_Cinese_Commentato.deps.json
+C:\Users\gmarc\OneDrive\Documenti\GitHub\Morra_cinese_commentato\Morra_Cinese_Commentato\Morra_Cinese_Commentato\bin\Debug\netcoreapp2.1\Morra_Cinese_Commentato.runtimeconfig.json
+C:\Users\gmarc\OneDrive\Documenti\GitHub\Morra_cinese_commentato\Morra_Cinese_Commentato\Morra_Cinese_Commentato\bin\Debug\netcoreapp2.1\Morra_Cinese_Commentato.runtimeconfig.dev.json
+C:\Users\gmarc\OneDrive\Documenti\GitHub\Morra_cinese_commentato\Morra_Cinese_Commentato\Morra_Cinese_Commentato\bin\Debug\netcoreapp2.1\Morra_Cinese_Commentato.dll
+C:\Users\gmarc\OneDrive\Documenti\GitHub\Morra_cinese_commentato\Morra_Cinese_Commentato\Morra_Cinese_Commentato\bin\Debug\netcoreapp2.1\Morra_Cinese_Commentato.pdb
+C:\Users\gmarc\OneDrive\Documenti\GitHub\Morra_cinese_commentato\Morra_Cinese_Commentato\Morra_Cinese_Commentato\obj\Debug\netcoreapp2.1\Morra_Cinese_Commentato.csprojAssemblyReference.cache
+C:\Users\gmarc\OneDrive\Documenti\GitHub\Morra_cinese_commentato\Morra_Cinese_Commentato\Morra_Cinese_Commentato\obj\Debug\netcoreapp2.1\Morra_Cinese_Commentato.csproj.CoreCompileInputs.cache
+C:\Users\gmarc\OneDrive\Documenti\GitHub\Morra_cinese_commentato\Morra_Cinese_Commentato\Morra_Cinese_Commentato\obj\Debug\netcoreapp2.1\Morra_Cinese_Commentato.AssemblyInfoInputs.cache
+C:\Users\gmarc\OneDrive\Documenti\GitHub\Morra_cinese_commentato\Morra_Cinese_Commentato\Morra_Cinese_Commentato\obj\Debug\netcoreapp2.1\Morra_Cinese_Commentato.AssemblyInfo.cs
+C:\Users\gmarc\OneDrive\Documenti\GitHub\Morra_cinese_commentato\Morra_Cinese_Commentato\Morra_Cinese_Commentato\obj\Debug\netcoreapp2.1\Morra_Cinese_Commentato.dll
+C:\Users\gmarc\OneDrive\Documenti\GitHub\Morra_cinese_commentato\Morra_Cinese_Commentato\Morra_Cinese_Commentato\obj\Debug\netcoreapp2.1\Morra_Cinese_Commentato.pdb
